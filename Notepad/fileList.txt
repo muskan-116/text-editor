@@ -1,0 +1,6 @@
+wajeeha.txt
+maria.txt
+rida.txt
+ariba.txt
+oma.txt
+mue.txt
